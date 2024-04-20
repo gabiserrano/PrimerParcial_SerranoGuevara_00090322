@@ -1,3 +1,4 @@
+//clase para telefono
 class TelefonoMovil extends Articulo {
     private String marca;
     private int memoriaRAM;
