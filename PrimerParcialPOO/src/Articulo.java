@@ -1,4 +1,4 @@
-//Interfaz metodos comunes
+//Interfaz Metodos
 
 interface ArticuloElectronico {
     double obtenerPrecio();
